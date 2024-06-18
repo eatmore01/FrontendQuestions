@@ -1,1 +1,3 @@
-# Front-end-interview-questions
+# Сборник мои личных вопросов для интервью
+
+![пингуин](./images/pingvin.jpg)
