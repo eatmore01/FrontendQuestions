@@ -4,7 +4,7 @@
 
 2. https://www.youtube.com/watch?v=gt-Glqr-1DM&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=9 +
 
-3. https://www.youtube.com/watch?v=kYnSZTKL_tY&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=10
+3. https://www.youtube.com/watch?v=kYnSZTKL_tY&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=10 + тех часть без софтскилов
 
 4. https://www.youtube.com/watch?v=6-UOa1wXHIg&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=14
 
