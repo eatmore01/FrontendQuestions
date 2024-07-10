@@ -1,6 +1,6 @@
 --- джуновские
 
-1. https://www.youtube.com/watch?v=cazJH-q4pOI&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF
+1. https://www.youtube.com/watch?v=cazJH-q4pOI&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF +
 
 2. https://www.youtube.com/watch?v=gt-Glqr-1DM&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=9
 
