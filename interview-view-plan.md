@@ -6,9 +6,9 @@
 
 3. https://www.youtube.com/watch?v=kYnSZTKL_tY&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=10 + тех часть без софтскилов
 
-4. https://www.youtube.com/watch?v=6-UOa1wXHIg&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=14
+4. https://www.youtube.com/watch?v=6-UOa1wXHIg&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=14 +
 
-5. https://www.youtube.com/watch?v=F3an_BrkORw&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=17 - САМОЕ ЖЕСТКОЕ СОБЕСЕДОВАНИЕ НА ПОЗИЦИЮ junior developer( название )
+5. https://www.youtube.com/watch?v=F3an_BrkORw&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=17 - САМОЕ ЖЕСТКОЕ СОБЕСЕДОВАНИЕ НА ПОЗИЦИЮ junior developer( название ) + крутой собес наи самом деле
 
 6. https://www.youtube.com/watch?v=8PIpHPftlpk&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=19
 
