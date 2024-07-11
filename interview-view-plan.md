@@ -12,11 +12,11 @@
 
 6. https://www.youtube.com/watch?v=8PIpHPftlpk&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=19 - душный собес с ужимками
 
-7. https://www.youtube.com/watch?v=KLH-cEgfSMU&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=5
-
-8. https://www.youtube.com/watch?v=LcAQMKXpcqg&ab_channel=AyubBegimkulov //много лайфвкодинга
+7. https://www.youtube.com/watch?v=LcAQMKXpcqg&ab_channel=AyubBegimkulov //много лайфвкодинга +
 
 --- мидл сеньерские
+
+8. https://www.youtube.com/watch?v=KLH-cEgfSMU&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=5
 
 9. https://www.youtube.com/watch?v=jDkt_s7f_sw&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=6 - В яндекс
 
@@ -28,12 +28,14 @@
 
 13. https://www.youtube.com/watch?v=vUm4I1jOjak&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=22
 
+14. https://www.youtube.com/watch?v=STzZw9FpX3I&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=27&ab_channel=%D0%A1%D0%B0%D0%BD%D1%8F%D0%BE%D0%B1IT
+
 --- назаровские хз по грейду
 
-14. https://www.youtube.com/watch?v=z-rBnJK8_no&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=15
+15. https://www.youtube.com/watch?v=z-rBnJK8_no&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=15
 
-15. https://www.youtube.com/watch?v=DfGnkE6J9P0&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=16
+16. https://www.youtube.com/watch?v=DfGnkE6J9P0&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=16
 
 --- хз че это
 
-16. https://www.youtube.com/watch?v=-NdtT30_eSQ&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=23
+17. https://www.youtube.com/watch?v=-NdtT30_eSQ&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=23
