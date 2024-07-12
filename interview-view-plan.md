@@ -20,11 +20,11 @@
 
 9. https://www.youtube.com/watch?v=jDkt_s7f_sw&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=6 // В яндекс (лафкодинг, онли)
 
-10. https://www.youtube.com/watch?v=wyAymAJrIo8&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=7
+10. https://www.youtube.com/watch?v=wyAymAJrIo8&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=7 + хороший собес, без ужимок добрый
 
 11. https://www.youtube.com/watch?v=pfwv8OiCu-c&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=8
 
-12. https://www.youtube.com/watch?v=1lGVCSFmUhE&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=18 - в сбер
+12. https://www.youtube.com/watch?v=1lGVCSFmUhE&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=18 // в сбер
 
 13. https://www.youtube.com/watch?v=vUm4I1jOjak&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=22
 

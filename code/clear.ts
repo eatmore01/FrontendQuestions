@@ -15,3 +15,5 @@ let x = 0;
 export const add1 = (x: number, y: number) => {
   return x + y;
 };
+
+const obj: Record<string, string> = {};
