@@ -16,9 +16,9 @@
 
 --- мидл сеньерские
 
-8. https://www.youtube.com/watch?v=KLH-cEgfSMU&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=5
+8. https://www.youtube.com/watch?v=KLH-cEgfSMU&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=5 + крутой собес
 
-9. https://www.youtube.com/watch?v=jDkt_s7f_sw&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=6 - В яндекс
+9. https://www.youtube.com/watch?v=jDkt_s7f_sw&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=6 // В яндекс (лафкодинг, онли)
 
 10. https://www.youtube.com/watch?v=wyAymAJrIo8&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=7
 
