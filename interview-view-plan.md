@@ -26,7 +26,7 @@
 
 12. https://www.youtube.com/watch?v=1lGVCSFmUhE&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=18 // в сбер
 
-13. https://www.youtube.com/watch?v=vUm4I1jOjak&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=22
+13. https://www.youtube.com/watch?v=vUm4I1jOjak&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=22 + странный собкес почти без реакта что очень грусно, но узнал про принципы проектирования
 
 14. https://www.youtube.com/watch?v=STzZw9FpX3I&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=27&ab_channel=%D0%A1%D0%B0%D0%BD%D1%8F%D0%BE%D0%B1IT
 
