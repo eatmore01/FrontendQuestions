@@ -32,11 +32,11 @@
 
 [x] https://www.youtube.com/watch?v=lz3qSt_QjWQ&ab_channel=%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BBMaximum //бодрый забавный собес
 
+[x] https://www.youtube.com/watch?v=lz3qSt_QjWQ&list=LL&index=1&t=10s&ab_channel=%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BBMaximum
+
 [ ] https://www.youtube.com/watch?v=1lGVCSFmUhE&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=18 // в сбер
 
-[ ] https://www.youtube.com/watch?v=lz3qSt_QjWQ&list=LL&index=1&t=10s&ab_channel=%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BBMaximum
-
-[ ] https://www.youtube.com/watch?v=8YS3RdO60gQ&list=LL&index=3&ab_channel=%D0%97%D0%90%D0%9F%D0%98%D0%A1%D0%98%D0%A1%D0%9E%D0%91%D0%95%D0%A1%D0%9E%D0%92
+[x] https://www.youtube.com/watch?v=8YS3RdO60gQ&list=LL&index=3&ab_channel=%D0%97%D0%90%D0%9F%D0%98%D0%A1%D0%98%D0%A1%D0%9E%D0%91%D0%95%D0%A1%D0%9E%D0%92 //спокойный хороший соьбес с рефакторингом и самописным методом some + прикольный чувак чей собес
 
 --- назаровские хз по грейду
 
