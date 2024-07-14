@@ -38,7 +38,7 @@
 
 [x] https://www.youtube.com/watch?v=8YS3RdO60gQ&list=LL&index=3&ab_channel=%D0%97%D0%90%D0%9F%D0%98%D0%A1%D0%98%D0%A1%D0%9E%D0%91%D0%95%D0%A1%D0%9E%D0%92 //спокойный хороший соьбес с рефакторингом и самописным методом some + прикольный чувак чей собес
 
-[ ] https://www.youtube.com/watch?v=qbefjhDteIg&ab_channel=%D0%97%D0%90%D0%9F%D0%98%D0%A1%D0%98%D0%A1%D0%9E%D0%91%D0%95%D0%A1%D0%9E%D0%92
+[х] https://www.youtube.com/watch?v=qbefjhDteIg&ab_channel=%D0%97%D0%90%D0%9F%D0%98%D0%A1%D0%98%D0%A1%D0%9E%D0%91%D0%95%D0%A1%D0%9E%D0%92 // собес с хорошим лайфкодингом. я буду его как референс к подготовки использовать скорее всего. Задачу ласт на каррирова7ние не прям понял.
 
 --- назаровские хз по грейду
 
