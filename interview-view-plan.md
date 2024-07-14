@@ -38,6 +38,8 @@
 
 [x] https://www.youtube.com/watch?v=8YS3RdO60gQ&list=LL&index=3&ab_channel=%D0%97%D0%90%D0%9F%D0%98%D0%A1%D0%98%D0%A1%D0%9E%D0%91%D0%95%D0%A1%D0%9E%D0%92 //спокойный хороший соьбес с рефакторингом и самописным методом some + прикольный чувак чей собес
 
+[ ] https://www.youtube.com/watch?v=qbefjhDteIg&ab_channel=%D0%97%D0%90%D0%9F%D0%98%D0%A1%D0%98%D0%A1%D0%9E%D0%91%D0%95%D0%A1%D0%9E%D0%92
+
 --- назаровские хз по грейду
 
 [ ] https://www.youtube.com/watch?v=z-rBnJK8_no&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=15
