@@ -42,7 +42,7 @@
 
 --- назаровские хз по грейду
 
-[ ] https://www.youtube.com/watch?v=z-rBnJK8_no&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=15
+[x] https://www.youtube.com/watch?v=z-rBnJK8_no&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=15 //собес с очень крутым лайфкодингом 100% буду использовать как референс доп при работате с мапом и разными списками
 
 [ ] https://www.youtube.com/watch?v=DfGnkE6J9P0&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=16
 
