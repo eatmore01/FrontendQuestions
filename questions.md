@@ -1176,7 +1176,7 @@ console.log(ar); //[1,2,3,4]
   }
   ```
 
-  ![нажмите на меня что бы почитать про сбросы css подробнее](https://habr.com/ru/companies/otus/articles/580442)
+  [нажмите на меня что бы почитать про сбросы css подробнее](https://habr.com/ru/companies/otus/articles/580442)
 
 ---
 
