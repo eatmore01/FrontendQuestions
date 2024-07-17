@@ -1,4 +1,4 @@
-![pudge](./images/pdge.png)
+![pudge](./images/wanted.png)
 
 <!-- TOC -->
 
