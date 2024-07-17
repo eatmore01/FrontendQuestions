@@ -1,3 +1,6 @@
+![pudge](./images/pdge.png)
+
+<!-- TOC -->
 <!-- TOC -->
 
 - [Общее](#%D0%BE%D0%B1%D1%89%D0%B5%D0%B5)
