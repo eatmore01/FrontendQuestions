@@ -73,7 +73,7 @@
 
 [ ] https://www.youtube.com/watch?v=xfWGF8Sgtrk
 
-[ ] https://www.youtube.com/watch?v=GlQDFYg33Bw //скорее всего супер хороший собес
+[х-] https://www.youtube.com/watch?v=GlQDFYg33Bw //скорее всего супер хороший собес, посмотрел часть лайфкодинга + теоретический конец.
 
 --- назаровские
 
