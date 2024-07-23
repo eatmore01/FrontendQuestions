@@ -75,6 +75,8 @@
 
 [х-] https://www.youtube.com/watch?v=GlQDFYg33Bw //скорее всего супер хороший собес, посмотрел часть лайфкодинга + теоретический конец.
 
+[ ] https://www.youtube.com/watch?v=o63I1C1k_Ao
+
 --- назаровские
 
 [x] https://www.youtube.com/watch?v=z-rBnJK8_no&list=PLmzFh_OVUei5c4sET0VE0iLwdOgB2_jUF&index=15 //собес с очень крутым лайфкодингом 100% буду использовать как референс доп при работате с мапом и разными списками
