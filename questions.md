@@ -53,6 +53,7 @@
   - [что такое fiber node в raact?](#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-fiber-node-%D0%B2-raact)
   - [React lazy loading](#react-lazy-loading)
   - [React portal ?](#react-portal-)
+  - [Compound Components design Patterns](#compound-components-design-patterns)
 - [redux/toolkit - other State Manager](#reduxtoolkit---other-state-manager)
   - [Что такое Redux?](#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-redux)
   - [Какую проблему решает redux/toolkit ?](#%D0%BA%D0%B0%D0%BA%D1%83%D1%8E-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%83-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D1%82-reduxtoolkit-)
@@ -71,6 +72,7 @@
   - [разные методы объявления функций в js/ts ?](#%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2-jsts-)
   - [bind call apply](#bind-call-apply)
   - [чем отличается строгое и не строгове сравнение ?](#%D1%87%D0%B5%D0%BC-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B5-%D0%B8-%D0%BD%D0%B5-%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B2%D0%B5-%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-)
+  - [Как удалить поле в объекте ?](#%D0%BA%D0%B0%D0%BA-%D1%83%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D1%8C-%D0%BF%D0%BE%D0%BB%D0%B5-%D0%B2-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B5-)
   - [Зачем нужен Symbol в js](#%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-symbol-%D0%B2-js)
   - [Отличие Map от объекта?](#%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5-map-%D0%BE%D1%82-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0)
   - [Преобразование типов](#%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D0%B8%D0%BF%D0%BE%D0%B2)
@@ -798,17 +800,15 @@ useLayoutEffect используется до отрисовки компоне�
   пример как может выглядить
 
   ```typescript
+  const LazyComponent = React.lazy(() => import("widgets/component"));
 
-  const LazyComponent  = React.lazy(() => import('widgets/component')
-
-  export const  App = () => {
-  return (
-
+  export const App = () => {
+    return (
       <Suspense fallback={<div>Loading...</div>}>
         <LazyComponent />
       </Suspense>
     );
-  }
+  };
   ```
 
 ---
@@ -830,6 +830,115 @@ useLayoutEffect используется до отрисовки компоне�
   };
   /// и теперь мы можем обернуть в модалку любой компонент и он будет у нас рендериться вне div root элемента
   /// так же можнор в портале ренедирть что угодно.
+  ```
+
+---
+
+### Compound Components (design Patterns)
+
+- Ответ
+
+  это дезайн паттерн которые позволяет улучшить читаемость кода, скрыть реализацию логики и пользоваться компонентами с более высокой абстракцией, улучшить расширяемость, улучшить маштабируемость компонентов которые завистя друг от друга.
+
+  Допустим это могут бытьт какие то листы UI, аккордионы, различные формы и тд.
+
+  Так же компаунд компонент чем то напоминает методологиб БЭМ,
+
+  где блок это сам элоемент допустим Accordion или AuthForm,
+  Элемент это допустим Item или Title или AuthInput,
+
+  а модификатором может быть какой то пропс, допустим показывать какой то инпут в форме идли нет, или если допустим на мобилке должно по другому показывать и тд
+
+  как это может выглядить
+
+  ```typescript
+  import {
+    useState,
+    createContext,
+    useContext,
+    PropsWithChildren,
+    ReactNode,
+  } from "react";
+
+  interface ContextState {
+    openIndex: number | null;
+    toggleIndex: (index: number) => void;
+  }
+  interface Props {
+    index: number;
+    children?: ReactNode;
+  }
+
+  //создаешь общий контекст с данными для компонента и для его компонентов, что позволяет избежать пропс дрилинга
+  const AccordionContext = createContext<ContextState>({
+    openIndex: null,
+    toggleIndex: () => {},
+  });
+
+  const Accordion = ({ children }: PropsWithChildren) => {
+    const [openIndex, setOpenIndex] = useState<number | null>(null);
+
+    const toggleIndex = (index: number) => {
+      setOpenIndex(openIndex === index ? null : index);
+    };
+
+    return (
+      <AccordionContext.Provider value={{ openIndex, toggleIndex }}>
+        <div>{children}</div>
+      </AccordionContext.Provider>
+    );
+  };
+
+  export const useAccordionContext = () => {
+    const context = useContext(AccordionContext);
+
+    if (!context) {
+      throw new Error("accordion context nt found");
+    }
+
+    return context;
+  };
+
+  const AccordionItem = ({ index, children }: Props) => {
+    const { openIndex, toggleIndex } = useAccordionContext();
+    const isOpen = openIndex === index;
+
+    return (
+      <div className="accordion-item">
+        <div onClick={() => toggleIndex(index)}>{children[0]}</div>
+        {isOpen && <div>{children[1]}</div>}
+      </div>
+    );
+  };
+
+  const AccordionTitle = ({ children }: PropsWithChildren) => {
+    return <>{children}</>;
+  };
+
+  const AccordionContent = ({ children }: PropsWithChildren) => {
+    return <>{children}</>;
+  };
+
+  //вот тут объеденяешь итемы в одну какую то сущность Accordion и используешь потом компоненты Item, Title и тд через Accordion
+  Accordion.Item = AccordionItem;
+  Accordion.Title = AccordionTitle;
+  Accordion.content = AccordionContent;
+
+  // вот как выглядит в коде.
+  export const App = () => {
+    return (
+      <Accordion>
+        <Accordion.Item index={0}>
+          <Accordion.Title>Title 1</Accordion.Title>
+          <Accordion.content>Content 1 </Accordion.content>
+        </Accordion.Item>
+        <Accordion.Item index={1}>
+          <Accordion.Title>Title 2</Accordion.Title>
+          <Accordion.content>Content 2</Accordion.content>
+        </Accordion.Item>
+      </Accordion>
+    );
+  };
   ```
 
 ---
