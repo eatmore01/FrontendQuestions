@@ -4,7 +4,9 @@
 
 тут нету лайфкодинга, весь лайфкодинг можно будет посмотреть в видео из файла view-plan
 ---
+
 [видео про собесы](https://www.youtube.com/watch?v=w49lhV3OyGQ&t=33s)
+
 ---
 
 ![mem](./images/mem.png)
