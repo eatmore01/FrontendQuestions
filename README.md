@@ -1,4 +1,4 @@
-## personal question compile for preparation for fronted interview
+## personal questions compile for preparation for fronted interview
 
 ### my self throught that question helps me search a first dev jobs.
 
