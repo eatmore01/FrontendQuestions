@@ -1,15 +1,12 @@
-## Личный сборник вопросов для подготовки к frontend интервью, скорее всего очень много водных вопросов, скорее всего где то будут ошибкит либо недочеты. 
+## personal question compile for preparation for fronted interview
 
-### Эти вопросы помогли мне найти первую работу фронтенд разработчиком.
+### my self throught that question helps me search a first dev jobs.
 
-#### Если что исправьте форкнув репозиторий -> сделав поправку -> сделав пул реквест.
-
-тут нету лайфкодинга, весь лайфкодинг можно будет посмотреть в видео из файла view-plan
-
+#### if u see mistake, u can -> fork repo -> fix issue -> make PR 
 
 ---
 
-[видео про собесы](https://www.youtube.com/watch?v=w49lhV3OyGQ&t=33s)
+[myself interview video](https://www.youtube.com/watch?v=w49lhV3OyGQ&t=33s)
 
 ---
 
